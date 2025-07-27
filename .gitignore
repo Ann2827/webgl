@@ -11,8 +11,6 @@ node_modules
 dist
 dist-ssr
 *.local
-.env
-src/validation/schema.json
 
 # Editor directories and files
 .vscode/*
@@ -24,16 +22,3 @@ src/validation/schema.json
 *.njsproj
 *.sln
 *.sw?
-/.idea
-.project
-.classpath
-.c9/
-*.launch
-.settings/
-*.sublime-workspace
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-
-*.pem
